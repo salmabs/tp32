@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TP03.2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="recipes">
+        <item>Sauce Brocoli</item>
+        <item>Spaghettis</item>
+        <item>Pizza</item>
+        <item>Cordon bleu</item>
+        <item>Escalope panné</item>
+    </string-array>
+
+    <string-array name="short_description">
+        <item>Sauce tomate avec du broccli </item>
+        <item>un plat de pâtes longues, fines et cylindriques, typique de la cuisine italienne </item>
+        <item>La pizza est une recette de cuisine traditionnelle de la cuisine italienne, originaire de Naples en Italie </item>
+        <item>Cordon bleu est un plat préparé avec une escalope roulée autour de jambon et de fromage, puis panée </item>
+        <item>Une escalope panée est une pièce de viande particulière, l'escalope, cuisinée d'une manière spécifique, dite « panée » </item>
+
+    </string-array>
+    <string-array name="description">
+        <item>les ingrédients du Sauce du Broccli :
+            2 tablespoons butter
+            2 tablespoons all-purpose flour
+            1 cup milk
+            1 ½ cups shredded Cheddar cheese
+            1 pinch salt and ground black pepper to taste</item>
+        <item>les ingrédients du Spaghetti
+            1 c. à soupe de Tartine  Cuisson Primevère
+            8 tomates (cocktail)
+            350 gr de Spaghettis
+            2 tranche(s) de jambon cru (de pays)
+            3 gousse(s) d' ail
+            thym
+            sel
+            poivre</item>
+        <item>les ingredients du pizza :
+            80 gr de Mozzarella Galbani 125g
+            Président100 gr de Crème Entière Président
+            1 pâte à pizza
+            200 gr de saumon frais
+            1 boîte de thon à l'huile d'olive
+            70 gr de coulis de tomate</item>
+        <item>les ingrédients du Cordon Bleu :
+            2 Président Le Bleu Président
+            Président1 noisette de Beurre gastronomique doux Président
+            6 escalopes de poulet
+            3 oeufs
+            6 tranche(s) de jambon cru
+            60 g de chapelure
+            1 pincée de sel
+            1 pincée de poivre</item>
+        <item>Les Ingrédients de l'Escalope pané  :
+            4 escalopes de dinde
+            3 cuil. à soupe de farine
+            2 oeufs
+            5 cuil. à soupe de chapelure
+            2 cuil. à soupe d’huile
+            1 citron
+            1/4 cuil. à café Muscade moulue</item>
+
+    </string-array>
+
+</resources>
